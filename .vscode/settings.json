@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/1_hello_world",
+    "cmake.sourceDirectory": "${workspaceFolder}/2_add_library"
+}
