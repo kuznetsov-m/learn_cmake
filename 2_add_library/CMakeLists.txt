@@ -2,8 +2,8 @@ cmake_minimum_required(VERSION 3.12)
 project(my_project VERSION 1.0.0)
 
 add_library(
-    say_hello # lib name
-    hello.h   # lib list files
+    say_hello STATIC # lib name
+    hello.h          # lib list files
     hello.cpp 
 )
 
